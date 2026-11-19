@@ -1,0 +1,7 @@
+- insert:
+    - id: group-chat
+      name: '@renmin/dsh-group-chat'
+      config:
+        enabled: true
+        maxMembers: 8
+        slashCommand: true
